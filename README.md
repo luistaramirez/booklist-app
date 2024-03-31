@@ -3,14 +3,14 @@
 
 
 # Install dependencies for the frontend and backend:
-cd frontend  in terminal npm install
-cd ../backend in termnal npm install
+	cd frontend  in terminal npm install
+	cd ../backend in termnal npm install
 
 
 # To run this application :
 
-cd frontend  in terminal npm start
-cd ../backend in terminal npm start
+	cd frontend  in terminal npm start
+	cd ../backend in terminal npm start
 
 Once the application start, you can access the application in your browser for frontend http://localhost:3000 and Backend http://localhost:5000
 
